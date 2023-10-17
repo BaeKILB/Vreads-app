@@ -14,16 +14,16 @@ This app use [yarn berry]
 If you want run this app, follow the steps :
 
 0. This app use [.env] file
-   .env value list :
-   VITE_APP_API_KEY=
-   VITE_APP_AUTH_DOMAIN=
-   VITE_APP_PROJECT_ID=
-   VITE_APP_STORAGE_BUCKET=
-   VITE_APP_MESSAGIN_ID=
-   VITE_APP_APP_ID=
+   .env value list : <br/>
+   VITE_APP_API_KEY= <br/>
+   VITE_APP_AUTH_DOMAIN= <br/>
+   VITE_APP_PROJECT_ID= <br/>
+   VITE_APP_STORAGE_BUCKET= <br/>
+   VITE_APP_MESSAGIN_ID= <br/>
+   VITE_APP_APP_ID= <br/>
 
-1. Open up terminal
+1. Open up terminal <br/>
 
-2. Run this phrase:
-   yarn install
-   yarn run dev
+2. Run this phrase: <br/>
+   yarn install <br/>
+   yarn run dev <br/>
