@@ -9,11 +9,11 @@ Currently, two official plugins are available:
 
 # notice
 
-This app use [yarn berry]
+This app use yarn berry
 
 If you want run this app, follow the steps :
 
-0. This app use [.env] file
+0. This app use .env file
    .env value list : <br/>
    VITE_APP_API_KEY= <br/>
    VITE_APP_AUTH_DOMAIN= <br/>
